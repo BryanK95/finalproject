@@ -1,0 +1,27 @@
+<style>
+body {
+    font-family:Verdana,sans-serif;font-size:0.8em;
+    background-color:#A52A2A;
+}
+header,footer,section,article {
+    border:1px solid #3333FF;
+    margin:5px;margin-bottom:15px;padding:8px;
+    background-color:white;
+}
+header,footer {
+    color:white;background-color:#444;margin-bottom:5px;
+}
+section {
+    background-color:#A52A2A;
+}
+nav ul  {
+    margin:0;padding:0;
+}
+nav ul li {
+    display:inline; margin:5px;
+}
+.margin{
+background-color:	#A52A2A;
+}
+
+</style>
